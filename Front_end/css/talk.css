@@ -1,0 +1,103 @@
+
+
+body{
+
+    text-align: center;
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+    /*background-image: url("./imagens/Abstract_red.png");*/
+
+}
+
+h1
+{ 
+
+  width: 100%;  
+  font-style: normal; 
+  font-family: sans-serif;
+  color: #FFFFFF;
+  letter-spacing: -0.02em;
+  
+
+}
+
+h1 > p {
+
+  width: 100%;
+  text-align: center;
+  font-style: bold;
+  color: #FFFFFF;
+  font-size: 15px;
+  letter-spacing: 0.02em;
+  
+
+}
+
+h2
+{
+  width: 100%;
+  font-style: bold;
+  color:#D44C00;
+  font-size: 20px;
+}
+
+h2 > p {
+
+  font-style: normal;
+  font-family: sans-serif;
+  color: #FFFFFF;
+  width: 30%;
+
+  margin-left: 15px;
+  margin-right: 15px;
+
+}
+
+.promessa
+{
+
+  width: 100%;
+  text-align: center;
+  font-style: bold;
+
+}
+/*
+body,
+p
+{
+  font-style: normal;
+  color: #FFFFFF;
+ 
+}*/
+
+.video
+{
+  text-align: center;
+  align-items: center;
+  width: 100%;
+}
+
+.botao
+{
+  text-align: center;
+}
+
+.botao,
+p {
+
+  font-style: normal;
+  color: #FFFFFF;
+}
+#ButtonIncricao
+{
+  width: 390px;
+  height: 80px;
+  left: 449px;
+  top: 470px;
+  
+  background: #D44C00;
+  box-shadow: inset -12px -27px 26px -19px rgba(0, 0, 0, 0.27);
+  border-radius: 700px;
+
+}
+
